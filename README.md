@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rutvik-dev&label=Profile%20views&color=0e75b6&style=flat" alt="rutvik-dev" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/rutvik-dev](https://github.com/rutvik-dev)
+- 👨‍💻 All of my projects are available at [https://github.com/rutvik-dev](https://github.com/rutvik-dev?tab=repositories)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
